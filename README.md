@@ -23,7 +23,7 @@ Questions to be answered:
 
 O dataset está disponível em [OpenDataSUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/10aed154-04c8-4cf4-b78a-8f0fa1bc5af4).
 
-O dicionário de dados está disponível em [Dictionary](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/a8308b58-8898-4c6d-8119-400c722c71b5).
+O dicionário de dados está disponível em [Dicionário](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/a8308b58-8898-4c6d-8119-400c722c71b5).
 
 Questões a serem respondidas:
 * Qual gênero foi mais vacinado?
