@@ -16,6 +16,8 @@ Questions to be answered:
 * How was the distribution of vaccinated over time?
 * What is the percentage of vaccinated per dose?
 
+You can find my full analyse [here](https://github.com/RaFrancelino/Data_Analysis_Covid19/blob/main/Notebooks/Analise_dados_covid19.ipynb).
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Análise de Dados sobre a Vacinação da Covid-19 no estado da Paraíba, Brasil.
 
@@ -34,3 +36,5 @@ Questões a serem respondidas:
 * Qual o fabricante mais utilizado no estado?
 * Como foi a distribuição de vacinados ao longo do tempo?
 * Qual é a porcentagem de vacinados por dose?
+
+Você pode encontrar minha análise completa [aqui](https://github.com/RaFrancelino/Data_Analysis_Covid19/blob/main/Notebooks/Analise_dados_covid19.ipynb).
